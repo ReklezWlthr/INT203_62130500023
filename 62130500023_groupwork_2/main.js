@@ -7,7 +7,8 @@ const app = {
             pro: 'images/pro.jpg',
             art: '12',
             fol: '1608',
-            rate: '4.7'
+            rate: '4.7',
+            width: '150'
         }
     },
     created() {
